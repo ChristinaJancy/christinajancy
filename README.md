@@ -7,9 +7,10 @@ In my spare time I also enjoy photography, gaming and sometimes practising the p
 
 🔭 I’m currently an intern at Tabtimize.com
 
-📫 How to reach me:
+<b>How to reach me:</b>
+▬▬▬▬▬▬▬▬▬▬▬▬▬
 <br>
-<b>Mail:</b> christinajancy@hotmail.com
+<b>📫 Mail:</b> christinajancy@hotmail.com
 
 <!--
 **ChristinaJancy/christinajancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
