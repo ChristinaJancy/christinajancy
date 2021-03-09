@@ -8,7 +8,7 @@ In my spare time I also enjoy photography, gaming and sometimes practising the p
 🔭 I’m currently an intern at Tabtimize.com
 
 <b>How to reach me:</b>
-▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 <br>
 <b>📫 Mail:</b> christinajancy@hotmail.com
 
