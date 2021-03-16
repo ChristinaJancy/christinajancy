@@ -5,7 +5,7 @@ As a soon-to-be Multimedia Designer, I got experience in working professionally 
 I love front-end coding, editing and in general just playing around with the different Adobe programs. 
 In my spare time I also enjoy photography, gaming and sometimes practising the piano.
 
-🔭 I’m currently an intern at Tabtimize.com
+🔭 <br> UX manager at Tabtimize.com
 
 <b>How to reach me:</b>
 <br>
