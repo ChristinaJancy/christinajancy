@@ -1,9 +1,9 @@
 ### Hi there, I'm Christina! 👋
 
-I'm a 24 year old half Danish/half Faroese student, living in Denmark. 
-As a soon-to-be Multimedia Designer, I got experience in working professionally with design and development of web solutions, games (3D/VR), communication, digital video and UX. 
+I'm a 25 year old Danish/Faroese multimedia designer, living in Denmark. 
+My experience is working professionally with design and development of web solutions, games (3D/VR), communication, digital video and UX. 
 I love front-end coding, editing and in general just playing around with the different Adobe programs. 
-In my spare time I also enjoy photography, gaming and sometimes practising the piano.
+In my spare time I enjoy photography, gaming and sometimes practising the piano.
 
 <b>Current position:</b>
 <br> 
