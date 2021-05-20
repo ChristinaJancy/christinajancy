@@ -5,6 +5,14 @@ My experience is working professionally with design and development of web solut
 I love front-end coding, editing and in general just playing around with the different Adobe programs. 
 In my spare time I enjoy photography, gaming and sometimes practising the piano.
 
+<ul>
+  <li> 💬 Ask me about anything, I am happy to help!;
+  </li>
+  <li><b>Current position:</b>
+<br> 
+🔭 UX manager at Tabtimize.com
+   </li>
+  </ul>
 <b>Current position:</b>
 <br> 
 🔭 UX manager at Tabtimize.com
