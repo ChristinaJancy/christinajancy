@@ -20,10 +20,10 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
  </ul>
 
 <p><strong>Languages and Tools:</strong></p>
-<p>
-  <code style="margin:5px;">
+
+  <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;" />    </code>
-  <code style="margin:5px;">
+  <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width:100%;" />
   </code>
   <code>
@@ -34,7 +34,7 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
   <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;" />
   </code>
-</p>
+
 
 
 
