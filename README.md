@@ -40,9 +40,11 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
   </code>
  &nbsp; <br><br>
     
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+<p><strong>Github stats:</strong></p>
+
+<p align="center">
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+</p>
 
 
 
