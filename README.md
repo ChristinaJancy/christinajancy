@@ -22,7 +22,7 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
 <p><strong>Languages and Tools:</strong></p>
 
   <code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%; margin:5px" />    </code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%; padding:10px;" />    </code>
   <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width:100%;" />
   </code>
