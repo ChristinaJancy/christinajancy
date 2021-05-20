@@ -38,7 +38,7 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
   <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;" />
   </code>
-    &nbsp;
+ &nbsp;
     
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
