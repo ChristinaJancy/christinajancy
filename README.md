@@ -10,14 +10,34 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
     💬 Ask me about anything, I am happy to help!
   </li>
   <li>
-    <b> 🔭 Current position as a UX manager at Tabtimize.com
+    <b> 🔭 Current position: UX manager at Tabtimize.com
   </li>
   <li>
-    📫 Reach me on mail <a href="mailto:christinajancy@hotmail.com">here</a>
+    📫 How to reach me: <a href="mailto:christinajancy@hotmail.com">christinajancy@hotmail.com</a>
   </li>
-   <li>🌱 I’m currently learning how to be better at JS and php.
+   <li>🌱 Currently learning how to be better at JS and php.
    </li>
  </ul>
+
+
+<p>
+  <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">     </code>
+  <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width:100%;">
+  </code>
+  <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;">
+  </code>
+  <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="max-width:100%;">         </code>
+  <code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;">
+  </code>
+</p>
+
+
+
 
 
 <!--
