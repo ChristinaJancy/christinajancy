@@ -19,9 +19,9 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
    </li>
  </ul>
 
-
+<p><strong>Languages and Tools:</strong></p>
 <p>
-  <code style="padding:5px;">
+  <code style="padding:margin:5px;">
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">     </code>
   <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width:100%;">
