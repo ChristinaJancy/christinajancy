@@ -13,8 +13,10 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
     <b> 🔭 Current position as a UX manager at Tabtimize.com
   </li>
   <li>
-    📫 You can mail me <a href="mailto:christinajancy@hotmail.com">here</a>
+    📫 Reach me on mail <a href="mailto:christinajancy@hotmail.com">here</a>
   </li>
+   <li>🌱 I’m currently learning how to be better at JS and php.
+   </li>
  </ul>
 
 
