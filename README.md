@@ -44,7 +44,7 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinajancy&theme=dark&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinajancy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
