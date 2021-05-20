@@ -43,7 +43,7 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
 <p><strong>Github stats:</strong></p>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=christinajancy&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 
