@@ -15,7 +15,7 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
   <li>
     📫 How to reach me: <a href="mailto:christinajancy@hotmail.com">christinajancy@hotmail.com</a>
   </li>
-   <li>🌱 Currently learning how to be better at JS and php.
+   <li>🌱 Currently learning how to be better at JS and vue3.
    </li>
  </ul>
 
