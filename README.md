@@ -43,9 +43,9 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
 <p><strong>Github stats:</strong></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinajancy&theme=dark&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinajancy&theme=dark&show_icons=true)
 
-
+ -->
 
 <!--
 **ChristinaJancy/christinajancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
