@@ -38,7 +38,7 @@ In my spare time I enjoy photography, gaming and sometimes practising the piano.
   <code>
     <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" style="max-width:100%;" />
   </code>
- &nbsp; <br><br>
+ &nbsp; <br><br> 
     
 <p><strong>Github stats:</strong></p>
 
