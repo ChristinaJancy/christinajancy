@@ -1,6 +1,6 @@
 ### Hi there, I'm Christina! 👋
 
-I'm a 25 year old Danish/Faroese multimedia designer, living in Denmark. 
+I'm a 25 year old Danish/Faroese(jr.) fullstack developer, living in Denmark. 
 I have experience in working professionally with design and development of web solutions, games (3D/VR), communication, digital video and UX. 
 I love front-end coding, editing and in general just playing around with the different Adobe programs. 
 In my spare time I enjoy photography, gaming and sometimes practising the piano.
