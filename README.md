@@ -1,14 +1,10 @@
 ### Hi there, I'm Christina! 👋
 
-I'm a 25 year old Danish/Faroese (jr.) fullstack developer, living in Denmark. 
-I have experience in working professionally with design and development of web solutions, games (3D/VR), communication, digital video and UX. 
-I love front-end coding, editing and in general just playing around with the different Adobe programs. 
-In my spare time I enjoy photography, gaming and sometimes practising the piano.
+A Danish/Faroese (jr.) fullstack developer currently living in Denmark. 
+I have experience in working professionally with design and development of web solutions, communication, digital video and UX. 
+In general I enjoy front-end coding, playing around with the different Adobe programs and photography. 
 
 <ul>
-  <li> 
-    💬 Ask me about anything, I am happy to help!
-  </li>
   <li>
     📫 Reach me at <a href="mailto:christinajancy@hotmail.com">christinajancy@hotmail.com</a>
   </li>
