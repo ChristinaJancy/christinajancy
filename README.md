@@ -8,7 +8,7 @@ In general I enjoy front-end coding, playing around with the different Adobe pro
   <li>
     📫 Reach me at <a href="mailto:christinajancy@hotmail.com">christinajancy@hotmail.com</a>
   </li>
-   <li>🌱 Currently learning how to be better at JS and vue3.
+   <li>🌱 Currently learning how to be better at TS and vue3.
    </li>
  </ul>
 
