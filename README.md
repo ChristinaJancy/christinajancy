@@ -6,9 +6,13 @@ In general I enjoy front-end coding, playing around with the different Adobe pro
 
 <ul>
   <li>
-    📫 Reach me at <a href="mailto:christinajancy@hotmail.com">christinajancy@hotmail.com</a>
+    📫 How to reach me: <a href="mailto:christinajancy@hotmail.com">christinajancy@hotmail.com</a>
   </li>
-   <li>🌱 Currently learning how to be better at TS and vue3.
+    <li>🌱 Learning new skills, working with react, next.js, sanity.io for the first time.
+   </li>
+     <li>🔭 Currently working on project base for my Bachelor in Web Development.
+   </li>
+   <li>⚡Working on improving my TypeScript knowledge.
    </li>
  </ul>
 
