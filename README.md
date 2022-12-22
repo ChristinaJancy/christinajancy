@@ -15,7 +15,7 @@ I enjoy front-end coding, playing around with the different Adobe programs and p
    <li>⚡Working on improving my TypeScript knowledge.
    </li>
  </ul>
-
+<!--
 <p><strong>Languages and Tools:</strong></p>
 
   <code>
@@ -77,7 +77,7 @@ I enjoy front-end coding, playing around with the different Adobe programs and p
   &nbsp; 
  
  <br><br> 
-    
+    -->
 <p><strong>Github stats:</strong></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinajancy&count_private=true&theme=radical)
