@@ -1,6 +1,6 @@
 ### Hi there, I'm Christina! 👋
 
-A Danish/Faroese (jr.) fullstack developer currently working as a Sales- and Marketing Coordinator. <br/> 
+A Danish/Faroese (jr.) fullstack developer. <br/> 
 From studying Multimedia Design and Web Development at Business Academy SouthWest in Esbjerg, I got experience in working professionally with design and development of web solutions, communication, digital video and UX. 
 I enjoy front-end coding, playing around with the different Adobe programs and photography. 
 
@@ -10,9 +10,9 @@ I enjoy front-end coding, playing around with the different Adobe programs and p
   </li>
     <li>🌱 Learning new skills, working with react, next.js, sanity.io for the first time.
    </li>
-     <li>🔭 Currently working on project base for my Bachelor in Web Development.
+     <li>🔭 Currently working as a Sales- and Marketing Coordinator at Itplan A/S.
    </li>
-   <li>⚡Working on improving my TypeScript knowledge.
+   <li>⚡ Working on improving my TypeScript knowledge.
    </li>
  </ul>
 <!--
