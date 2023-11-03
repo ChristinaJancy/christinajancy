@@ -1,16 +1,23 @@
 ### Hi there, I'm Christina! 👋
 
-A Danish/Faroese (jr.) fullstack developer. <br/>  <br/> 
-From studying Multimedia Design and Web Development at Business Academy SouthWest in Esbjerg, I got experience in working professionally with design and development of web solutions, communication, digital video and UX. 
-I enjoy front-end coding, playing around with the different Adobe programs and photography. 
+Danish/Faroese fullstack developer currently living in Denmark. <br/>  <br/> 
+With a background in multimedia design and a bachelor's degree in web development,  <br/> 
+along with valuable experience from previous roles as a sales and marketing coordinator and web developer, <br/> 
+I bring a diverse skill set encompassing digital marketing, creative design, and project management. <br/> 
+I enjoy working with front-end, Marketing, UX, being creative with various Adobe programs and photography.
+
+As a person, I am known for my creativity, curiosity, and I'm often described <br/> 
+as someone who spreads joy and positive energy through my constant smile. <br/> 
+I have a keen eye for visual communication, an affinity for details, and I enjoy assisting those around me. 
+
 
 <ul>
   <li>
-    📫 How to reach me: <a href="mailto:christinajancy@hotmail.com">christinajancy@hotmail.com</a>
+    📫 Reach me at: <a href="mailto:christinajancy@hotmail.com">christinajancy@hotmail.com</a>
   </li>
-    <li>🌱 Learning new skills, working with react, next.js, sanity.io for the first time.
+    <li>🌱 Learning new skills, working with react, next.js, sanity.io
    </li>
-     <li>🔭 Currently working as a Sales- and Marketing Coordinator at Itplan A/S.
+     <li>🔭 Currently looking for new job possibilities.
    </li>
    <li>⚡ Working on improving my TypeScript knowledge.
    </li>
