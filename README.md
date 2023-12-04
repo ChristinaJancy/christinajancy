@@ -15,11 +15,11 @@ I have a keen eye for visual communication, an affinity for details, and I enjoy
   <li>
     📫 Reach me at: <a href="mailto:cjp@oj-comfort.dk">cjp@oj-comfort.dk</a>
   </li>
-    <li>🌱 Learning new skills, working with react, next.js, sanity.io
+    <li>🌱 Learning new skills working with Angular.
    </li>
-     <li>🔭 Currently looking for new job possibilities.
+     <li>🔭 Currently Excited for the future. 
    </li>
-   <li>⚡ Working on improving my TypeScript knowledge.
+   <li>⚡ Improving my TypeScript knowledge.
    </li>
  </ul>
 <!--
