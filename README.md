@@ -13,7 +13,7 @@ I have a keen eye for visual communication, an affinity for details, and I enjoy
 
 <ul>
   <li>
-    📫 Reach me at: <a href="mailto:christinajancy@hotmail.com">christinajancy@hotmail.com</a>
+    📫 Reach me at: <a href="mailto:cjp@oj-comfort.dk">cjp@oj-comfort.dk</a>
   </li>
     <li>🌱 Learning new skills, working with react, next.js, sanity.io
    </li>
