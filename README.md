@@ -13,13 +13,13 @@ I have a keen eye for visual communication, an affinity for details, and I enjoy
 
 <ul>
   <li>
-    📫 Reach me at: <a href="mailto:cjp@oj-comfort.dk">cjp@oj-comfort.dk</a>
+    📫 Reach me at: <a href="mailto:christina@jancy.dk">christina@jancy.dk</a>
   </li>
-    <li>🌱 Learning new skills working with Angular.
+    <li>🍵 Creating things, one commit at a time.
    </li>
      <li>🔭 Currently Excited for the future. 
    </li>
-   <li>⚡ Improving my TypeScript knowledge.
+   <li>⚡ Always working on improving my TypeScript and Angular knowledge.
    </li>
  </ul>
 <!--
